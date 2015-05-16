@@ -8,6 +8,12 @@ build/openh264/*
 !build/openh264/lib
 !build/openh264/lib/*
 
+# libyuv
+!build/libyuv/
+build/libyuv/*
+!build/libyuv/lib/
+!build/libyuv/include/
+
 # pjsip
 !build/pjproject
 build/pjproject/*
